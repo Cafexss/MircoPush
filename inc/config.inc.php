@@ -1,0 +1,9 @@
+<?php
+//session_start();
+header('Content-type:text/html;charset=utf-8');
+define('DB_HOST','SAE_MYSQL_HOST_M');
+define('DB_USER','SAE_MYSQL_USER');
+define('DB_PASSWORD','SAE_MYSQL_PASS');
+define('DB_DATABASE','Weihot');
+define('DB_PORT','SAE_MYSQL_PORT');
+?>
